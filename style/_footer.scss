@@ -1,0 +1,38 @@
+footer{
+    width: 100%;
+    padding: 40px 530px 40px 70px;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+
+    .footer-info{
+        width: 410px;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        color: white;
+    }
+
+    .sayt-page{
+        color: white;
+
+        ul{
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            font-weight: 400;
+;
+        }
+
+        a{
+            color: white
+        }
+
+        i{
+            color: white;
+            margin-right: 8px;
+            font-size: 22px;
+        }
+    }
+    
+}
